@@ -1,4 +1,4 @@
-# Alumni-Database-Management-System
+# Alumni Management Website
 ![279925395_796137494709674_1004347260514358404_n](https://github.com/adeeb0005/Alumni-Database-Management-System/assets/72414061/6304e375-9629-4c6b-aa9e-13fc848ff2e0)
 ![279916178_1371203956681314_6519762591904331358_n](https://github.com/adeeb0005/Alumni-Database-Management-System/assets/72414061/aeb0ca0e-bc6b-4a2b-a6fc-8f67bb5a43a7)
 ![280394082_2837993296347443_8331768892361455612_n](https://github.com/adeeb0005/Alumni-Database-Management-System/assets/72414061/c88e4d1f-b673-4ad6-b349-6677faa733db)
